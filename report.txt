@@ -1,9 +1,10 @@
-# Linear-classification-algorithms
-Implementation of linear classification algorithms on banknote authentication dataset. The models implemented include Fisher's linear discriminant, Probabilistic generative model and logistic regression.
+REPORT 
+
+SELECTED TOPICS FROM COMPUTER SCIENCE 
+
+Assignment I
 
 Goal : Implement different linear models for binary classification. 
-
-Dataset: uci repository’s ’banknote authentication Data Set’
 
 
 I. Fisher’s linear discriminant
