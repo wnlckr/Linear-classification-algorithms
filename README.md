@@ -4,8 +4,9 @@ Implementation of linear classification algorithms on banknote authentication da
 Goal : Implement different linear models for binary classification. 
 
 Dataset: uci repository’s ’banknote authentication Data Set’
+https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
-
+-------------------------------------------------------------------------------------------
 I. Fisher’s linear discriminant
 
 confusion matrix :
@@ -34,7 +35,7 @@ n = 412     Predicted: NO       Predicted: YES
 Actual: NO    TN =224                FP =3 
 
 Actual: YES   FN = 1                 TP = 184
-
+-------------------------------------------------------------------------------------------------
 
 II. Probabilistic generative model
 
@@ -62,7 +63,7 @@ Actual: NO    TN =216                FP =11
 
 Actual: YES   FN = 0                 TP = 185
 
-
+-----------------------------------------------------------------------------------------------------------------------
 III. Logistic Regression Model 
 
 true_positive: 185
@@ -88,4 +89,4 @@ n = 412     Predicted: NO       Predicted: YES
 Actual: NO    TN =224                FP =3 
 
 Actual: YES   FN = 0                 TP = 185
-
+--------------------------------------------------------------------------------------------------------------------
