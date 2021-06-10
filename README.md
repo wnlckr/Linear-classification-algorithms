@@ -35,7 +35,6 @@ n = 412     Predicted: NO       Predicted: YES
 Actual: NO    TN =224                FP =3 
 
 Actual: YES   FN = 1                 TP = 184
-
 -------------------------------------------------------------------------------------------------
 
 II. Probabilistic generative model
@@ -90,5 +89,4 @@ n = 412     Predicted: NO       Predicted: YES
 Actual: NO    TN =224                FP =3 
 
 Actual: YES   FN = 0                 TP = 185
-
 --------------------------------------------------------------------------------------------------------------------
